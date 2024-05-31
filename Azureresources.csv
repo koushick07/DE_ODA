@@ -1,0 +1,4 @@
+﻿NAME,TYPE,LOCATION,
+"tokyo-olympic-db","Azure Databricks Service","Southeast Asia"
+"tokyo-olympic-df-sg","Data factory (V2)","Southeast Asia"
+"tokyoolympicdatasg","Storage account","Southeast Asia"
